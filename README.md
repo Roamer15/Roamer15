@@ -21,4 +21,6 @@ Full stack developer, Love solving problems and look for all means to improve cr
 ---
 [![](https://visitcount.itsvg.in/api?id=Roamer15&icon=0&color=0)](https://visitcount.itsvg.in)
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
