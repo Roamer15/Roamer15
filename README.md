@@ -6,7 +6,7 @@ building a streaming platform, a SaaS backend, a chess app with an AI engine,
 and currently developing Seendr, a video-based social app that matches people 
 by shared interests rather than follower counts.
 
-I care about clean code, meaningful products, and getting better every day.
+I care about meaningful products and getting better every day.
 Open to remote opportunities and startup collaborations.
 
 ## 🌐 Socials:
